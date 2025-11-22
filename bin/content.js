@@ -14,7 +14,7 @@ function checkForRuleQuery() {
 
     labels.forEach(label => {
         // Ensure we only target the "Rule query" section
-        if (label.innerText.trim() === "Rule query") {
+        if (label.innerText.trim() === "Rule query" || label.innerText.trim() === "Query" || label.innerText.trim() === "Summary query") {
             
             // Find the container immediately following the label
             const siblingDiv = label.nextElementSibling;
