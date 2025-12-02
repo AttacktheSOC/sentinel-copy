@@ -18,8 +18,8 @@ Sentinel Smart Copy is a lightweight browser extension that adds a dedicated **"
 
 ## 📦 Installation
 
-### Official Stores (Coming Soon)
-* Microsoft Edge Add-ons: *[Pending Review]*
+### Official Stores (In progress)
+* [Microsoft Edge extension](https://microsoftedge.microsoft.com/addons/detail/sentinel-smart-copy/clnboeofhdophaofnddgdfkgobbifhkd?hl=en-US)
 * Chrome Web Store: *[Pending Review]*
 
 ### Manual Installation (Developer Mode)
